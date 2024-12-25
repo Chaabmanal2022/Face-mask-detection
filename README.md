@@ -16,8 +16,11 @@ This is achieved through a **CNN model** that processes image data and makes pre
 - **User-Friendly**: Easy to deploy and use for personal or organizational purposes.
 
 ## 📁 Dataset
-The dataset contains images of people with and without masks. It has been preprocessed to include:
-- **Images with various lighting conditions and angles.**
+The dataset used for this project can be downloaded from Kaggle:  
+[Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)  
+
+It contains images of faces with and without masks, covering:
+- **Various lighting conditions and angles.**
 - **Diverse demographics, including age, gender, and ethnicity.**
 
 ## 🛠️ Technologies Used
